@@ -1,0 +1,7 @@
+npm install @langchain/openai @langchain/community @langchain/core langchain
+npm install @supabase/supabase-js @supabase/auth-helpers-nextjs
+npm install @prisma/client prisma
+npm install @pinecone-database/pinecone
+npm install chromadb
+npm install shadcn-ui @radix-ui/react-icons
+npm install zod react-hot-toast 
